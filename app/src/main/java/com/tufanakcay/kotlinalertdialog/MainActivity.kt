@@ -31,7 +31,6 @@ class MainActivity : AppCompatActivity() {
 
          */
 
-
     }
 
     fun save(view : View) {
@@ -53,6 +52,5 @@ class MainActivity : AppCompatActivity() {
         }
 
         alert.show()
-
     }
 }
